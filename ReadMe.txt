@@ -1,2 +1,4 @@
-Git is a version control system.
-Git is free software.
+这是一个DIY的多线程爬虫
+使用的关键技术包括：多线程，正文提取算法，多级队列bfs
+代码写的有点挫，仅供参考
+如若你从中能得到一点帮助，不甚荣幸
